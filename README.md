@@ -72,7 +72,7 @@ GET /carreras: Obtiene la lista de carreras.
 GET /estudiante/sexo/{sexo}: Obtiene estudiantes por género.
 GET /estudiante/carrera/informatica: Obtiene estudiantes de la carrera de informática.
 
-Creditos : Joaquin Mighetto 
+
 ![1](https://github.com/Fozkoo/SistemaRegistro/assets/150302407/41ff450b-9343-4b17-9b55-bc65ba17840a)
 ![2](https://github.com/Fozkoo/SistemaRegistro/assets/150302407/587ca24a-1d38-49c8-a651-1e2ed1356762)
 ![3](https://github.com/Fozkoo/SistemaRegistro/assets/150302407/b4e39ac9-60cf-4d42-baf1-24ab2c6a7d9d)
