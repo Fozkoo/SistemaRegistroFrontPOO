@@ -17,17 +17,8 @@ Estudiantes: Almacena la información de los estudiantes.
 Sexo: Contiene las opciones de género disponibles.
 Carreras: Lista las diferentes carreras académicas.
 
-Controladores: Los controladores gestionan las solicitudes HTTP y delegan las operaciones necesarias a los servicios correspondientes.
-
-EstudianteController: Gestiona las operaciones CRUD relacionadas con los estudiantes.
-
-EstudianteService: Implementa la lógica para la gestión de estudiantes.
-SexoService: Maneja la lógica relacionada con los géneros.
-CarreraService: Administra la lógica de las carreras.
-
 Frontend
 El frontend está desarrollado con React y utiliza TailwindCSS para la estilización, así como componentes de React Bootstrap para la interfaz de usuario.
-
 
 Despliegue y Ejecución
 
