@@ -62,15 +62,6 @@ Clonar el repositorio del frontend.
 Instalar las dependencias con npm install.
 Ejecutar la aplicación React con npm run dev.
 
-API Endpoints
-
-GET /estudiante: Obtiene la lista de todos los estudiantes.
-POST /estudiante: Agrega un nuevo estudiante.
-DELETE /estudiante/delete/{id}: Elimina un estudiante por su ID.
-GET /sexo: Obtiene la lista de géneros.
-GET /carreras: Obtiene la lista de carreras.
-GET /estudiante/sexo/{sexo}: Obtiene estudiantes por género.
-GET /estudiante/carrera/informatica: Obtiene estudiantes de la carrera de informática.
 
 
 ![1](https://github.com/Fozkoo/SistemaRegistro/assets/150302407/41ff450b-9343-4b17-9b55-bc65ba17840a)
