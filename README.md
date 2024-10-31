@@ -28,25 +28,6 @@ CarreraService: Administra la lógica de las carreras.
 Frontend
 El frontend está desarrollado con React y utiliza TailwindCSS para la estilización, así como componentes de React Bootstrap para la interfaz de usuario.
 
-Configuración de la Base de Datos
-La base de datos MySQL está compuesta por las siguientes tablas:
-
-Estudiantes
-
-id: Identificador único del estudiante.
-nombre: Nombre del estudiante.
-apellido: Apellido del estudiante.
-documento: Documento de identificación del estudiante.
-sexoId: Identificador del género del estudiante.
-carreraId: Identificador de la carrera del estudiante.
-Sexo
-
-id: Identificador único del género.
-nombre: Nombre del género (e.g., Masculino, Femenino).
-Carreras
-
-id: Identificador único de la carrera.
-nombre: Nombre de la carrera.
 
 Despliegue y Ejecución
 
